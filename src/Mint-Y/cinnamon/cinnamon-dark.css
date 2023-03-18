@@ -1596,10 +1596,10 @@ StScrollBar {
 
 .applet-separator-line {
   width: 1px;
-  background: rgba(255, 255, 255, 0.12); }
+  background: rgba(255, 255, 255, 0.1); }
   .applet-separator-line-vertical {
     height: 1px;
-    background: rgba(255, 255, 255, 0.12); }
+    background: rgba(255, 255, 255, 0.1); }
 
 .applet-box {
   padding-left: 4px;
